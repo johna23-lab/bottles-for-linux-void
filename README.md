@@ -8,7 +8,7 @@
 <b>How to install the Linux Void version<br/><br/></b>
 
 
-wget https://github.com/johna23-lab/bottles-for-linux-void/releases/download/2022.12.14.1/bottles-2022.12.14.1_6.x86_64.xbps<br/>
+wget https://github.com/johna23-lab/bottles-for-linux-void/releases/download/12.14.1_6/bottles-2022.12.14.1_6.x86_64.xbps<br/>
 
 xbps-rindex -a bottles-2022.12.14.1_6.x86_64.xbps<br/>
 
