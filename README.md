@@ -8,11 +8,11 @@
 <b>How to install the Linux Void version<br/><br/></b>
 
 
-wget https://github.com/johna23-lab/bottles-for-linux-void/releases/download/2022.12.14.1/bottles-2022.12.14.1_5.x86_64.xbps<br/>
+wget https://github.com/johna23-lab/bottles-for-linux-void/releases/download/2022.12.14.1/bottles-2022.12.14.1_6.x86_64.xbps<br/>
 
-xbps-rindex -a bottles-2022.12.14.1_5.x86_64.xbps<br/>
+xbps-rindex -a bottles-2022.12.14.1_6.x86_64.xbps<br/>
 
-sudo xbps-install -R $PWD bottles-2022.12.14.1_5<br/>
+sudo xbps-install -R $PWD bottles-2022.12.14.1_6<br/>
 
 sudo pip3 install pycurl icoextract fvs patool PyYAML requests markdown mutagen pycryptodomex websockets brotli<br/>
 
