@@ -14,7 +14,7 @@ xbps-rindex -a bottles-2022.12.14.1_6.x86_64.xbps<br/>
 
 sudo xbps-install -R $PWD bottles-2022.12.14.1_6<br/>
 
-sudo pip3 install pycurl icoextract fvs patool PyYAML requests markdown mutagen pycryptodomex websockets brotli<br/>
+sudo pip3 install pycurl icoextract fvs patool PyYAML requests markdown mutagen pycryptodomex websockets brotli pathvalidate<br/>
 
 wget https://gitlab.com/TheEvilSkeleton/vkbasalt-cli/-/archive/v3.1.1/vkbasalt-cli-v3.1.1.tar.bz2<br/>
 
